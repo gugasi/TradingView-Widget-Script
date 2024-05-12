@@ -1,7 +1,5 @@
-# Day #39
-
 ### Tradingview Widget
-In this tutorial ([Open in Youtube](https://youtu.be/zAwzrIHP7wE)), I am gonna showing to you how to use tradingview widget api in javascript. Also this code is fully responsive and we show you 2 method of coding for it❗️
+A learned tutorial of tradingview widget API in javascript, and fully responsive too. There are two methods of the javascript!
 
 # Screenshot
 Here we have project screenshot :
